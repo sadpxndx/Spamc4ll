@@ -2,7 +2,9 @@
 
 clear
 figlet PANDA CALLER | lolcat
+echo '===================================='
 echo 'made by panda, Instagram = mfakhri_f'
+echo '===================================='
 echo '
 [1].Jalankan scriptnya
 [2].keluar

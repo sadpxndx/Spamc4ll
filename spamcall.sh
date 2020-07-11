@@ -2,9 +2,10 @@
 
 clear
 figlet PANDA | lolcat 
-print""
+echo "
 [1].Jalankan scriptnya
-[2].keluar.""
+[2].keluar
+"
 read -p "lu mau yang mana : " pil
 if [[ $pil == 1 ]]; then
 no "Masukkan no tujuan : " nomor

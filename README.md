@@ -19,4 +19,4 @@ for termux
 6.bash spamcall.sh
 
 
-bye
+bye :)

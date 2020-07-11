@@ -3,10 +3,11 @@
 clear
 figlet PANDA CALLER | lolcat
 echo 'made by panda, Instagram = mfakhri_f'
-echo'
+echo '
 [1].Jalankan scriptnya
-[2].keluar.
+[2].keluar
 '
+echo
 read -p "lu mau yang mana : " pil
 if [[ $pil == 1 ]]; then
 read -p "Masukkan no tujuan : " nomor
@@ -17,4 +18,5 @@ echo 'SOK ATUH KELUAR ANJING'
 echo 'bye'
 exit
 fi
-echo ''
+;
+

@@ -18,5 +18,9 @@ for termux
 5.cd Spamc4ll
 6.bash spamcall.sh
 
+note : when you enter the telephone number, please do not enter the number 0 behind it 
+
+example:
+8889321xxxx
 
 bye :)

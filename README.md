@@ -1,4 +1,6 @@
-# Spamc4ll made by panda instagram=@mfakhri_f
+# Spamc4ll 
+
+Spamcall panda 
 
 for linux
 

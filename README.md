@@ -7,7 +7,7 @@ Spamcall panda
 
 
 <a>1.sudo apt-get install git</a>
-<b>2.sudo apt-get install figlet</b>
+<a>2.sudo apt-get install figlet</a>
 <c>3.gem install lolcat</c>
 <h4>4.git clone https://github.com/rootpandax/Spamc4ll</h4>
 <h5>5.cd Spamc4ll</h5>

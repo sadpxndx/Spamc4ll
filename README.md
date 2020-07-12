@@ -2,27 +2,27 @@
 
 Spamcall panda 
 
-for linux
+<b>for linux</b>
 
-1.sudo apt-get install git
-2.sudo apt-get install figlet
-3.gem install lolcat
-4.git clone https://github.com/rootpandax/Spamc4ll
-5.cd Spamc4ll
-6.bash spamcall.sh
+<h1>1.sudo apt-get install git</h1>
+<h2>2.sudo apt-get install figlet</h2>
+<h3>3.gem install lolcat</h3>
+<h4>4.git clone https://github.com/rootpandax/Spamc4ll</h4>
+<h5>5.cd Spamc4ll</h5>
+<h6>6.bash spamcall.sh</h6>
 
-for termux
+<b>for termux</b>
 
-1.pkg install git
-2.pkg install figlet
-3.gem install lolcat
-4.git clone https://github.com/rootpandax/Spamc4ll
-5.cd Spamc4ll
-6.bash spamcall.sh
+<h7>1.pkg install git</h7>
+<h8>2.pkg install figlet</h8>
+<h9>3.gem install lolcat</h9>
+<h10>4.git clone https://github.com/rootpandax/Spamc4ll</h10>
+<h11>5.cd Spamc4ll</h11>
+<h12>6.bash spamcall.sh</h12>
 
-note : when you enter the telephone number, please do not enter the number 0 behind it 
+<i>note : when you enter the telephone number, please do not enter the number 0 behind it</i> 
 
 example:
-8889321xxxx
+<b>8889321xxxx</b>
 
-bye :)
+<h13>bye :)</h13>

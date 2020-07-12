@@ -10,9 +10,9 @@ echo '
 [2].exit
 '
 echo
-read -p "lu mau yang mana : " pil
+read -p "choose one : " pil
 if [[ $pil == 1 ]]; then
-read -p "Masukkan no tujuan : " nomor
+read -p "number : " nomor
 link="https://id.jagreward.com/member/verify-mobile/$nomor"
 curl -s $link
 else

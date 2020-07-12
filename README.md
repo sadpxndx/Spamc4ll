@@ -24,7 +24,7 @@ Spamcall panda
 <h11>5.cd Spamc4ll</h11>
 <h12>6.bash spamcall.sh</h12>
 
-<i>note : when you enter the telephone number, please do not enter the number 0 behind it</i> 
+<i>note : when you enter the telephone number, please do not enter the number of 0 behind it</i> 
 
 example:
 <b>8889321xxxx</b>

@@ -1,5 +1,4 @@
 #!/bin/bash
-
 clear
 figlet -f slant PancaCaller |lolcat
 echo 'hy what is your name: '
@@ -11,7 +10,10 @@ echo "ok"
 sleep 2
 echo
 clear
-echo 'Loading'
+sleep 2
+echo 'Loading'  
+sleep 3
+clear
 sleep 03
 figlet -f slant PancaCaller |lolcat
 echo 'made by panda, Instagram = mfakhri_f'
@@ -34,5 +36,3 @@ echo 'bye'
 exit
 fi
 ;
-
-

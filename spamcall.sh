@@ -34,5 +34,5 @@ echo 'ok, see you next time'
 sleep 2
 echo 'bye'
 exit
-fi
-;
+fi;
+

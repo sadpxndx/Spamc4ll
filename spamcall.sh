@@ -1,6 +1,6 @@
 #!/bin/bash
 clear
-figlet -f slant PancaCaller |lolcat
+figlet -f slant PandaCaller |lolcat
 echo 'hy what is your name: '
 read nick
 sleep 2
@@ -15,7 +15,6 @@ echo 'Loading'
 sleep 3
 clear
 sleep 03
-figlet -f slant PancaCaller |lolcat
 echo 'made by panda, Instagram = mfakhri_f'
 echo '
 [1].run the script

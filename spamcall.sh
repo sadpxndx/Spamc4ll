@@ -1,4 +1,6 @@
 #!/bin/bash
+#Jangan Recode dong blok
+
 clear
 figlet -f slant PandaCaller |lolcat
 echo 'hy what is your name: '

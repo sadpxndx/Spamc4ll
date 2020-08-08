@@ -5,18 +5,18 @@ clear
 figlet -f slant PandaCaller |lolcat
 echo 'hy what is your name: '
 read nick
-sleep 2
+sleep 0.2
 echo welcome $nick  miaw~~
-sleep 2
+sleep 0.2
 echo "ok"
 sleep 2
 echo
 clear
 sleep 2
 echo 'Loading'  
-sleep 3
+sleep 2
 clear
-sleep 03
+sleep 0.3
 echo 'made by panda, Instagram = mfakhri_f'
 echo '
 [1].run the script
@@ -30,9 +30,9 @@ link="https://id.jagreward.com/member/verify-mobile/$nomor"
 curl -s $link
 else
 clear
-sleep 2
+sleep 0.2
 echo 'ok, see you next time'
-sleep 2
+sleep 0.2
 echo 'bye'
 exit
 fi;
